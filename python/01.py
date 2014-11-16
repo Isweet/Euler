@@ -1,7 +1,1 @@
-my_sum = 0
-
-for i in range(1000):
-    if i % 3 == 0 or i % 5 == 0:
-        my_sum += i
-
-print my_sum
+print sum(filter(lambda x: x % 3 == 0 or x % 5 == 0, xrange(1000)))

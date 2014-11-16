@@ -1,5 +1,13 @@
 # Project Euler Solutions
 
-Friend Key: 658496_5bb4c3d6f2171cb3a258ada1cdc101c3
+My personal Project Euler solutions. Each language subdirectory contains solutions in that language. Each solution is named according to the corresponding problem number. Problems that require large inputs are under the 'input' subdirectory.
 
-./python --> solutions in Python
+I may include an 'output' subdirectory at some point.
+
+## Languages
+
+* Python
+
+## Be My Friend
+
+Friend Key: `698136_10e9f399c1f8c4059e92a4c61dbadbae`
