@@ -4,6 +4,6 @@ def fib_gen(lim):
 
     while (first <= lim):
         yield first
-	first, second = second, first + second
+        first, second = second, first + second
 
 print sum(filter(lambda x: x % 2 == 0, fib_gen(4000000)))
