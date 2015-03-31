@@ -10,4 +10,4 @@ I may include an 'output' subdirectory at some point.
 
 ## Be My Friend
 
-Friend Key: `698136_10e9f399c1f8c4059e92a4c61dbadbae`
+Friend Key: `658496_5bb4c3d6f2171cb3a258ada1cdc101c3`
