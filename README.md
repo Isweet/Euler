@@ -7,6 +7,7 @@ I may include an 'output' subdirectory at some point.
 ## Languages
 
 * Python
+* Haskell
 
 ## Be My Friend
 
